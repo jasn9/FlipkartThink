@@ -1,5 +1,3 @@
-# Home Work!
-
 
 https://github.com/techhue/FlipkartThink
 
@@ -33,7 +31,7 @@ ____________________________________________
 		int sum(int x, int y ) {	return x + y; }
 
 	- Reason Design and Implementation Stratergies
-		About Overflow and Underflow in Finite and System
+		About Overflow and Underflow in Finite System
 
 	Reasoning, Coding and Design Assignment
 	____________________________________________
@@ -50,4 +48,33 @@ ____________________________________________
 		Single Precision and Double Precision Floating Points
 		https://en.wikipedia.org/wiki/Single-precision_floating-point_format
 		https://en.wikipedia.org/wiki/Double-precision_floating-point_format	
+
+	Reading Papers [OPTIONAL]
+	____________________________________________
+		What Every Computer Scientist Should Know About Floating Points
+
+Day 5
+___________________________________________________________
+COMPULSORY ASSIGNMENTS
+	
+	Coding, Practice and Revision Assignments
+	_____________________________________________________
+		Download Java.Shared1.zip From https://github.com/techhue/FlipkartThink
+		Practice Java.Shared1 > DoJava > All *.java CodeExamples
+
+	Reading and Understanding Assignment
+	____________________________________________
+	 	1. Array and Pointers Chapter - Read and Understand 
+	 		Programming in C, 2nd Edition, K & R 
+	 	2. Java Programming Structures - Read and Understand
+			Read Java.Shared1 > ReadingMaterial > CoreJavaSE9.1.pdf
+
+OPTIONAL ASSIGNMENT
+	Reasoning, Coding and Design Understanding Assignment
+	_____________________________________________________
+		- Design your StringBuilder Class from Scratch
+				NOTE: Not by subclassing StringBuilder
+		- Explore and Understand : How Java StringBuilder Class works
+			and Implemented Internally
+		- Reason and Compare Your Design with Java StringBuilder Class
 
