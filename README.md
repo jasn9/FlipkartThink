@@ -93,3 +93,18 @@ COMPULSORY ASSIGNMENTS
 	 		Programming in C, 2nd Edition, K & R 
 	 	2. Java Programming Structures - Read and Understand
 			Read Java.Shared2 > ReadingMaterial > CoreJavaSE9.2.pdf
+
+Day 7
+___________________________________________________________
+COMPULSORY ASSIGNMENTS
+	
+	Coding, Practice and Revision Assignments
+	_____________________________________________________
+		Download Java.Shared3.zip From https://github.com/techhue/FlipkartThink
+		Practice Java.Shared3 > DoJava > All *.java CodeExamples
+
+	Reading and Understanding Assignment
+	____________________________________________
+	 	1. Java Programming Structures - Read and Understand
+			Read Java.Shared3 > ReadingMaterial > CoreJavaSE9.3.pdf
+
