@@ -108,3 +108,26 @@ COMPULSORY ASSIGNMENTS
 	 	1. Java Programming Structures - Read and Understand
 			Read Java.Shared3 > ReadingMaterial > CoreJavaSE9.3.pdf
 
+Day 8
+___________________________________________________________
+COMPULSORY ASSIGNMENTS
+	
+	Coding, Practice and Revision Assignments
+	_____________________________________________________
+		Download Java.Shared4.zip From https://github.com/techhue/FlipkartThink
+		Practice Java.Shared4 > DoJava > All *.java CodeExamples
+
+	Reading and Understanding Assignment
+	____________________________________________
+	 	1. Java Programming Structures - Read and Understand
+			Read Java.Shared4 > ReadingMaterial > CoreJavaSE9.4.pdf
+			- Till Collections
+
+	Prove and Reason Code Example in Terms of Equality Contract Confirmation!
+	____________________________________________
+		https://www.baeldung.com/java-equals-hashcode-contracts
+
+	Explain and Reason
+	____________________________________________
+		What Comes First? Stack In Process Or Function Call Order
+		Why Or In Exceptions and & In Generics?
