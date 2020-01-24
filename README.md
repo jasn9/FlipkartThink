@@ -131,3 +131,30 @@ COMPULSORY ASSIGNMENTS
 	____________________________________________
 		What Comes First? Stack In Process Or Function Call Order
 		Why Or In Exceptions and & In Generics?
+
+
+DAY 9: ONWARDS...
+___________________________________________________________
+COMPULSORY ASSIGNMENTS
+	
+	COMPULSARY CODING ASSIGNMENT - MUST SUBMIT IN YOUR GITHUB
+	DEADLINE: TUESDAY, 28th JANUARY, 2020!
+	___________________________________________________________	
+		1. Practical Object Oriented Programming By Sandi Metz
+			 - Read and Understand
+			 - CODE CASE STUDY IN JAVA - COVERED IN THIS BOOK
+			 		ALL CHAPTERS TO BE COVERED
+			 - REASON YOUR DESIGN AND CASE STUDY
+			 - DESIGN YOUR OWN GUIDELINES
+
+	Coding, Practice and Revision Assignments
+	___________________________________________________________
+		Download Java.Shared5.zip From https://github.com/techhue/FlipkartThink
+		Practice Java.Shared5 > DoJava > All *.java CodeExamples
+
+	Reading and Understanding Assignment
+	___________________________________________________________
+	 	1. Java Programming Structures - Read and Understand
+			Read Java.Shared4 > ReadingMaterial > CoreJavaSE9.4.pdf
+			- All Chapters Covered
+
